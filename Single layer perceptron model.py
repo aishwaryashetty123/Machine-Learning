@@ -4,7 +4,7 @@ x1=[1,-1,1,-1]
 x2=[1,1,-1,-1]
 t=[1,-1,-1,-1]			#targets of AND
 
-w=[0,0]					#initialize weights and bias
+w=[0,0]				#initialize weights and bias
 b=0
 a=1
 
